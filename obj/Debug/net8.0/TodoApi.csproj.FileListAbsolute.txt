@@ -23,3 +23,11 @@
 /Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/obj/Debug/net8.0/TodoApi.pdb
 /Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
 /Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/obj/Debug/net8.0/TodoApi.csproj.AssemblyReference.cache
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sajith/Documents/personal/Projects/ASP.NET/TodoApi/obj/Debug/net8.0/TodoApi.csproj.CopyComplete
